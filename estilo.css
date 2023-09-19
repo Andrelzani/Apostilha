@@ -1,0 +1,117 @@
+body
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-size:cover;
+    background-position:size ;
+    background-image:url(https://th.bing.com/th/id/R.074ce283c8ab311c36425c0b5b104dc2?rik=1lgIbodfVhbU5w&pid=ImgRaw&r=0) ;
+    background-repeat: no-repeat;
+}
+
+.nome{
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    margin-bottom: 5%;
+}
+
+.headernome{
+    margin-left:2%;
+    margin-right: 2%;
+    margin-top: 2%;
+
+}
+
+.linkmenu
+{
+    text-decoration:none;
+    margin-bottom: 50%;
+    color: white;
+}
+
+.listmenu
+{
+    list-style: none;
+    display: inline;
+    padding: 2%;
+    border: 3px solid;
+    border-color:white;
+    margin-inline-end: 4%;
+
+}
+ .listmenu:hover{
+    background-color:orange;
+    border: none;
+ }
+
+
+
+h2{
+    text-align: center;
+    color: black;
+}
+
+#introducao{
+    border-style:solid ;
+    padding: 1%;
+    border-color:white;
+    background-color:#f1e874;
+    text-align: left;
+    color: black;
+    border-radius: 2em;
+    margin-top:1% ;
+}
+
+#tags{
+   
+    border-style:solid;
+    padding: 1%;
+    border-color:white;
+    background-color:#ffc1ff;
+    text-align: left;
+    color: black;
+    border-radius: 2em;
+    margin-top:1%;   
+}
+
+#css{
+   
+    border-style:solid;
+    padding: 1%;
+    border-color:white;
+    background-color:#d6ffa5;
+    text-align: left;
+    color: black;
+    border-radius: 2em;
+    margin-top:1%;   
+
+}
+
+#excodigo{
+    
+    border-style:solid;
+    padding: 1%;
+    border-color:white;
+    background-color:gray;
+    text-align: left;
+    color: black;
+    border-radius: 2em;
+    margin-top:1%;   
+}
+
+.list{
+    list-style:none;
+}
+h3{
+    text-align: center;
+}
+.exemplo{
+    color: purple;
+    border-style:solid;
+    padding: 1%;
+    border-color:white;
+    background-color:yellow;
+    text-align: left;
+  
+}
+
+    
